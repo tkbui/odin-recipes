@@ -1,0 +1,38 @@
+h1, h2 {
+    font-family: Georgia, serif;
+}
+
+h1 {
+    background-color: lightgreen;
+    font-weight: bolder;
+}
+
+h2 {
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+}
+
+
+p, ul, ol {
+    font-family: "Courier New", monospace;
+}
+
+#description-header {
+    font-size: 28px;
+}
+
+#recipe-list {
+    font-size: 22px;
+}
+
+.recipe-header {
+    font-size: 26px;
+}
+
+.recipe-body {
+    font-size: 18px;
+}
+
+body {
+    background-color: mintcream;
+}
